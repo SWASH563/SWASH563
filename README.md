@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SWASH563
 - 👀 I’m interested in ...Artificial intelligence 
 - 🌱 I’m currently learning ... AI and Cybernetics
-- 💞️ I’m looking to collaboration
+- 💞️ I’m looking for collaboration
   
 
 <!---
